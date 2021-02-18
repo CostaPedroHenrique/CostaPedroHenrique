@@ -1,5 +1,5 @@
 # Pedro Henrique da Costa
-##[Linkedin](www.linkedin.com/in/devpedrohenrique)
+## [Linkedin](www.linkedin.com/in/devpedrohenrique)
 
 <!--
 **CostaPedroHenrique/CostaPedroHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
