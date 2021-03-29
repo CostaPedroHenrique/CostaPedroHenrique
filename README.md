@@ -1,5 +1,5 @@
 # Pedro Henrique da Costa
-## [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devpedrohenrique/)](https://www.linkedin.com/in/devpedrohenrique/) [![Gmail Badge](https://img.shields.io/badge/-devpedrohenrique@gmail.com-0077b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:devpedrohenrique@gmail.com)
+## [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devpedrohenrique/)](https://www.linkedin.com/in/devpedrohenrique/) [![Gmail Badge](https://img.shields.io/badge/-devpedrohenrique@gmail.com-0077b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devpedrohenrique@gmail.com)](mailto:devpedrohenrique@gmail.com)
 ![Ylb1cK5](https://user-images.githubusercontent.com/55585540/108519561-823c6380-72a8-11eb-9d8b-618f348eed3a.gif)
 ![resised](https://user-images.githubusercontent.com/55585540/108519214-32f63300-72a8-11eb-9491-08d785aaf1da.gif)
 
