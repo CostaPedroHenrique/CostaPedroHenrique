@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
+<h1 align="center">Hi 👋, I'm Pedro Henrique </h1>
 <h3 align="center">Web Developer and TI studant.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=costapedrohenrique&label=Profile%20views&color=0e75b6&style=flat" alt="costapedrohenrique" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=costapedrohenrique" alt="costapedrohenrique" /></a> </p>
+<p align="left"><img height="110px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1619964642226.png"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=costapedrohenrique" alt="costapedrohenrique" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
