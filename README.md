@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at [Brisanet Telecomunicações](https://www.brisanet.com.br/)
+- 🔭 I’m currently working at [9Bits](https://www.9bits.com.br/)
 
 - 🌱 I’m currently learning **data science and machine learning.**
 
